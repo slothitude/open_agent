@@ -1,0 +1,24 @@
+.
+.env.example
+.gitignore
+MODEL_GUIDE.md
+PROJECT_SUMMARY.md
+QUICKSTART.md
+README.md
+STRUCTURE.txt
+examples
+  examples/advanced_example.py
+  examples/chatbot_example.py
+  examples/custom_tools_example.py
+  examples/simple_example.py
+miniagent
+  miniagent/__init__.py
+  miniagent/agent.py
+  miniagent/logger.py
+  miniagent/tools
+    miniagent/tools/__init__.py
+    miniagent/tools/basic_tools.py
+requirements.txt
+validate_setup.py
+{miniagent,miniagent
+  {miniagent,miniagent/tools,examples}
